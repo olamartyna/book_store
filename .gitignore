@@ -1,3 +1,6 @@
 __pycache__
 .vscode
 .pytest_cache
+Pipfile
+Pipfile.lock
+.DS_Store
